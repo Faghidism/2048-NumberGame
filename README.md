@@ -2,6 +2,7 @@
 # 2048-NumberGame
 ## 2048 NumberGame Using C++
 ---
+<img alt="collabra logo" src="logo/Logo-bg.svg" width="350" height="350">
 ![Picture1](../Pictures/Picture1.png)
 ### Game Description:
 
