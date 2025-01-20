@@ -2,8 +2,7 @@
 # 2048-NumberGame
 ## 2048 NumberGame Using C++
 ---
-
-![Picture1](..Pictures/Picture1.png)
+![Picture1](images/images.png)
 ### Game Description:
 
 2048 is a simple and attractive number game. The game consists of a four-by-four board of tiles. By pressing the keyboard arrow keys in any direction, something like gravity is established in that direction, and the tiles will move in that direction if they can. The tiles are either empty or have a number. Tiles with the same number will merge together and become one tile when they collide. The goal of this game is to move the tiles and produce a tile with the number 2048. The tiles are numbers from the ends of two, such as 8, 4, 2, etc.
