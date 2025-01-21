@@ -1,6 +1,8 @@
 
 # 2048-NumberGame
 
+![Image](https://github.com/user-attachments/assets/639e3c1d-b533-46f9-b976-95de37bc2de4)
+
 ## 2048 NumberGame Using C++
 
 ### Game Description:
